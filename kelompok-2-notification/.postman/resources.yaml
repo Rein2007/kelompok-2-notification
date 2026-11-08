@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 31d64531-b665-4b4c-8649-24dedb087d9b
+
+localResources:
+  collections:
+    - ../kelompok-2-notification/postman/Mini-LMS-Notification.postman_collection.json

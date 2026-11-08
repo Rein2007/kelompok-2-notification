@@ -1,0 +1,12 @@
+PASS  Health (200)
+SKIP  Tanpa token (AUTH_BYPASS aktif)
+PASS  POST sukses (201)
+PASS  POST field kosong (400)
+PASS  POST JSON rusak (400)
+PASS  POST Content-Type salah (415)
+PASS  GET tanpa user_id (400)
+PASS  GET daftar (200)
+PASS  PATCH read (200)
+PASS  PATCH id tidak ada (404)
+PASS  Endpoint salah (404)
+Hasil: 10 lulus, 0 gagal
